@@ -7,13 +7,13 @@ import "firebase/compat/firestore";
 import "firebase/compat/storage";
 
 const firebaseConfig = {
-    apiKey: "AIzaSyDrq1B-au4eXc8mzhKNDnGZ57nSuy6-QEM",
-    authDomain: "twitter-clone-b7ca4.firebaseapp.com",
-    projectId: "twitter-clone-b7ca4",
-    storageBucket: "twitter-clone-b7ca4.appspot.com",
-    messagingSenderId: "362672449622",
-    appId: "1:362672449622:web:1801aa66cc6fbe661873f7",
-    measurementId: "G-6DS940EQ86"
+  apiKey: "AIzaSyCFDEKhyTSkkLH0lkNZpNtSAZ2rA8rWXsg",
+  authDomain: "twitter-clone-b4adf.firebaseapp.com",
+  projectId: "twitter-clone-b4adf",
+  storageBucket: "twitter-clone-b4adf.appspot.com",
+  messagingSenderId: "143597990836",
+  appId: "1:143597990836:web:7a5cce7b9f271821b2f8e1",
+  measurementId: "G-M35XTSXV26"
   };
 
 const firebaseApp = firebase.initializeApp(firebaseConfig);
